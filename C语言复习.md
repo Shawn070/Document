@@ -1,4 +1,3 @@
-# C语言用来选择判断和循环的语句：
 ```C
 /*********if*********/
 #include<stdio.h>
@@ -19,6 +18,7 @@ void main(void)
    printf("y = %d\n x = %d\n",y,x);
 }
 ```
+
 ```c
 /*********switch*********/
 #include<stdio.h>
@@ -39,5 +39,47 @@ void main(void)
       default:
          printf("Error\n");
    }
+}
+```
+
+```c
+/*********while*********/
+#include<stdio.h>
+void main(void)
+{
+   int i, sum=0;
+   i = 1;
+   while(i <= 100)
+   {
+      sum = sum + i;
+      i++;
+   }
+   printf("1+2+3+...+100=%d\n",sum);
+}
+```
+
+```c
+/*********do-while*********/
+{
+   do{
+      sum += i;
+      i++;
+   }while(i <= 100)
+   printf("1+2+3+...+100=%d\n",sum);
+}
+```
+
+```c
+/*********for*********/
+#include<stdio.h>
+void main(void)
+{
+   int i, sum;
+   sum = 0;
+   for(i = 1; i <= 100; i++)
+   {
+      sum += i;
+   }
+   printf("1+2+3+...+100=%d\n",sum);
 }
 ```
