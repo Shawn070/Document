@@ -1,6 +1,3 @@
 Good afternoon,my dear professors:  
-&ensp;&ensp;I'm glad to be here for the interview.First of all,I'd like to introduce myself.  
-My name is TANG YU XIAO,my homemtown is Dujiangyan,a beautiful city in Sichuan province.  
-Because of Li Bing and his son's contrubution of building Water Conservancy Project，Dujiangyan  
-not only enjoys beautiful scenerys，but also have
-and I will finish my undergraduate education in HeFei University of Technology
+&ensp;&ensp;I'm glad to be here for the interview.First of all,I'd like to introduce myself.My name is TANG YU XIAO.I am 23 years old.My homemtown is Dujiangyan,a beautiful city in Sichuan province.Because of Li Bing and his son's contrubution of building Water Conservancy Project，Dujiangyannot only enjoys beautiful scenerys，but also has profound history.  
+&ensp;&ensp;Second,I will introduce my major in the university.My major is Measuring and Control Technology and Instrumentations in HeFei University of Technology.It involves so many aspects，such as light，machinery,electronic circuit and computer.
