@@ -35,6 +35,6 @@ For example, if on average, your measurements for a given substance are close to
 
 A good analogy for understanding accuracy and precision is to imagine a basketball player shooting baskets. If the player shoots with accuracy, his aim will always take the ball close to or into the basket. If the player shoots with precision, his aim will always take the ball to the same location which may or may not be close to the basket. A good player will be both accurate and precise by shooting the ball the same way each time and each time making it in the basket. 
 
-|accurate:准确度|precise:精密度|accurate&precise:精密度&准确度|
+|accurate:准确度|precise:精密度|accurate&precise|
 |---|---|---|
 |![accurate:准确度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-1.png)|![precise:精密度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-2.png)|![accurate&precise:精密度&准确度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-3.png)|
