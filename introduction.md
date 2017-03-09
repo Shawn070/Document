@@ -25,7 +25,7 @@ Good afternoon,my dear professors:
  
 # other：
  
-#### Accuracy and Precision:
+### Accuracy and Precision:
 
 Accuracy refers to the closeness of a measured value to a standard or known value. For example, if in lab you obtain a weight measurement of 3.2 kg for a given substance, but the actual or known weight is 10 kg, then your measurement is not accurate. In this case, your measurement is not close to the known value.  
 
