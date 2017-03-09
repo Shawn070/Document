@@ -22,3 +22,19 @@ Good afternoon,my dear professors:
 ### 6. university
 　Hefei University of Technology is a major and key university, with particular strength in Engineering and Management Science. It is built in 1945 and is located in Hefei, the capital of the Anhui Province. It has been listed in Project 211 and Project 985 Innovation Platform.My university have three Campuses, one for teachers, one for freshman and sophomore, the last one for the junior, senior and postgraduates. Athough my university is not big enough, it has a good learning atmosphere. I really like our library where all people concentrate on their studies quietly. In a word, I really cherish the the of the time in my university.  
 　Thank you!
+ 
+# other：
+ 
+#### Accuracy and Precision:
+
+Accuracy refers to the closeness of a measured value to a standard or known value. For example, if in lab you obtain a weight measurement of 3.2 kg for a given substance, but the actual or known weight is 10 kg, then your measurement is not accurate. In this case, your measurement is not close to the known value.  
+
+Precision refers to the closeness of two or more measurements to each other. Using the example above, if you weigh a given substance five times, and get 3.2 kg each time, then your measurement is very precise. Precision is independent of accuracy. You can be very precise but inaccurate, as described above. You can also be accurate but imprecise.  
+
+For example, if on average, your measurements for a given substance are close to the known value, but the measurements are far from each other, then you have accuracy without precision.  
+
+A good analogy for understanding accuracy and precision is to imagine a basketball player shooting baskets. If the player shoots with accuracy, his aim will always take the ball close to or into the basket. If the player shoots with precision, his aim will always take the ball to the same location which may or may not be close to the basket. A good player will be both accurate and precise by shooting the ball the same way each time and each time making it in the basket. 
+
+|accurate:准确度|precise:精密度|accurate&precise:精密度&准确度|
+|---|---|---|
+|![accurate:准确度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-1.png)|![precise:精密度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-2.png)|![accurate&precise:精密度&准确度](https://github.com/Shawn070/Re-test-preparation/blob/master/formula/ap-3.png)|
