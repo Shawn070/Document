@@ -1,19 +1,23 @@
 # 1. Intruduction：
 Good afternoon,my dear professors:  
-
 　I'm glad to be here for the interview.First of all,I'd like to introduce myself.My name is TANG YU XIAO.I am 23 years old.My hometown is Dujiangyan,a beautiful city in Sichuan province.Because of Li Bing and his son's contribution of irrigation system，Dujiangyan not only enjoys beautiful scenery，but also has a profound history.  
-　
+ 
+ 
 　Second,I will introduce my major in the university.My major is Measurement and Control Technology and Instruments in Hefei University of Technology and I will finish it in July this year.The major involves so many aspects，such as light，machinery,electronic circuit and computer.I specialize in electonic circruit and computer so that every time our teachers lead us to make some Course Designs about them, I always finish them soon and well.  
-　
+ 
+ 
 　Well, in my spare time, I like to flash new roms into my android phone.Every time when my android phone bootloads successfully,I get really excited which just like my c program runs successfully on the hardware after debugging it in thousands of times.So I learned some knowledge about Embedded Systems and Linux. Gradually, I come to know a fascinating website, the GitHub, which is a open source code web, you upload your program that everyone can help you debug it and the web will record each change of your program. I really learned a lot from it.I also like to learn some Photoshop skills and Computer repair skills  to enrich myself in my free time which really helped me a lot during my college period.  
-　
+ 
+ 
 　OK,that's all.Thank you for your attention.
 
 #### 2. The reason for taking part in the national post-graduate entrance examination / postgraduate qualification exam：
-　In my university, I usually hear about our professors talking about professional researches and I have been deeply impressed by the academic atmosphere.I think postgraduate study provides people with enough room to get further enrichment.I think this is my first reason.  
+　In my university, I usually hear about our professors talking about professional researches and I have been deeply impressed by the academic atmosphere.I think postgraduate study provides people with enough room to get further enrichment.I think this is my first reason.
 　
-　The second one is I am long for doing some research in  chongqin university throughout my life.It's my pleasure to be with my favorite scientific research for my lifetime. And I think this is the most important factor for my decision.  
+ 
+　The second one is I am long for doing some research in  chongqin university throughout my life.It's my pleasure to be with my favorite scientific research for my lifetime. And I think this is the most important factor for my decision.
 　
+ 
 　Thirdly, I think further study is still urgent for me to realize my value.Life is precious,it is necessary for us to seize any opportunity for self-development, especially during our competitive period in our life.
 
 ### 3. plan in the postgraduate time
