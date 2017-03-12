@@ -18,4 +18,5 @@
 
 ## 其他：
 1. 毕业设计课题：基于单片机，设计二维微动平台的驱动电路与控制面板
-                Based on single - chip microcomputer, the design of two - dimensional micro - platform drive circuit and control panel
+
+Based on single - chip microcomputer, the design of two - dimensional micro - platform drive circuit and control panel
