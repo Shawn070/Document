@@ -20,3 +20,23 @@
 1. 毕业设计课题：基于单片机，设计二维微动平台的驱动电路与控制面板
 
 Based on single - chip microcomputer, design two - dimensional micro - platform drive circuit and control panel
+
+diffraction grating handbook
+
+衍射光栅手册
+
+5.复制光栅
+5.0概述
+5.1复制过程
+5.2复制光栅与母光栅的比较 
+5.3栅的稳定性
+
+ 
+6. 平面光栅及其安装
+6.1光栅安装术语
+6.2平面光栅单色镜的安装 
+6.2.1Czerny-Turner单色器
+6.2.2 Ebert-Fastie 单色器
+6.2.3 Monk-Gillieson 单色器
+6.2.4Littrow 底座
+6.2.5双重和三重单色器
